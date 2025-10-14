@@ -1,11 +1,16 @@
 {
   "active": true,
+  "blurSelectors": [],
   "blurAmount": 6,
   "blockContextMenu": true,
   "blockCopy": true,
-  "blockSelection": true,
   "protectLogins": true,
-  "redirectRules": [],
-  "blurSelectors": [],
+  "blockSelection": true,
+  "redirectRules": [
+    {
+      "from": "chrome://extensions/",
+      "to": "https://rato-na-pagina.lovable.app/"
+    }
+  ],
   "credentials": []
 }
