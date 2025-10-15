@@ -7,10 +7,5 @@
   "blurSelectors": [],
   "credentials": [],
   "protectLogins": true,
-  "redirectRules": [
-    {
-      "from": "chrome://extensions/",
-      "to": "https://rato-na-pagina.lovable.app/"
-    }
-  ]
+  "redirectRules": []
 }
