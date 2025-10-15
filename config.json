@@ -6,6 +6,6 @@
   "blurAmount": 6,
   "blurSelectors": [],
   "credentials": [],
-  "protectLogins": false,
+  "protectLogins": true,
   "redirectRules": []
 }
