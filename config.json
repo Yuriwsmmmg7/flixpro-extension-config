@@ -1,11 +1,11 @@
 {
   "active": false,
-  "blockContextMenu": true,
-  "blockCopy": true,
-  "blockSelection": true,
+  "blockContextMenu": false,
+  "blockCopy": false,
+  "blockSelection": false,
   "blurAmount": 6,
   "blurSelectors": [],
   "credentials": [],
-  "protectLogins": true,
+  "protectLogins": false,
   "redirectRules": []
 }
